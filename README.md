@@ -1,0 +1,3 @@
+# shaderpacks
+
+Quite literally the `.minecraft/shaderpacks/` directory of my shader testing/development instance. Feel free to try or study them, however they are quite buggy and apparently don't work on some machines...
